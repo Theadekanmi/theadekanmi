@@ -14,17 +14,17 @@ Beyond development, I help startups optimize websites for speed, responsiveness,
 ## 👨‍💻 Stack & Languages
 
 <p align="center">
-  <img src="assets/html.svg" alt="html" width="50"/>
-  <img src="assets/css.svg" alt="css" width="50"/>
-  <img src="assets/boostrap.svg" alt="boostrap" width="50"/>
-  <img src="assets/javascript.svg" alt="javascript" width="50"/>
-  <img src="assets/python.svg" alt="python" width="50"/>
-  <img src="assets/Django.svg" alt="Django" width="50"/>
-  <img src="assets/Django Rest.svg" alt="Django Rest" width="50"/>
+  <img src="assets/html.svg" alt="html" width="70"/>
+  <img src="assets/css.svg" alt="css" width="70"/>
+  <img src="assets/boostrap.svg" alt="boostrap" width="70"/>
+  <img src="assets/javascript.svg" alt="javascript" width="70"/>
+  <img src="assets/python.svg" alt="python" width="70"/>
+  <img src="assets/Django.svg" alt="Django" width="70"/>
+  <img src="assets/Django Rest.svg" alt="Django Rest" width="70"/>
 </p>
 
 📬 Contact Me
 
-📧 **Email: [your.email@example.com](pamilerinadedigba@gmail.com)  
-🌐 **Portfolio:[yourportfolio.com](https://the-adekanmi.vercel.app/)  
-💼 **LinkedIn: [linkedin.com/in/yourname](www.linkedin.com/in/theadekanmi)
+📧 Email: (pamilerinadedigba@gmail.com)  
+🌐 Portfolio:(https://the-adekanmi.vercel.app/)  
+💼 LinkedIn: (www.linkedin.com/in/theadekanmi)
