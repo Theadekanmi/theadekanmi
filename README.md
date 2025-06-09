@@ -18,7 +18,7 @@ Beyond development, I help startups optimize websites for speed, responsiveness,
   <img src="assets/css.svg" alt="css" width="70"/>
   <img src="assets/boostrap.svg" alt="boostrap" width="70"/>
   <img src="assets/javascript.svg" alt="javascript" width="70"/>
-  <img src="assets/Python.svg" alt="python" width="70"/>
+  <img src="assets/Python img.svg" alt="python" width="70"/>
   <img src="assets/Django.svg" alt="Django" width="70"/>
   <img src="assets/Django Rest.svg" alt="Django Rest" width="70"/>
 </p>
