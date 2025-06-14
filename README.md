@@ -10,6 +10,9 @@ I'm Adekanmi, a Full-Stack Developer specializing in crafting visually compellin
 Leveraging React and Next.js, I build fast-loading websites optimized for both users and search engines.
 With a background in Public Administration and knowledge in Project Management, I approach problem-solving with structure.
 Beyond development, I help startups optimize websites for speed, responsiveness, and seamless UX.
+I build custom web solutions for a wide range of industries — from online stores and educational platforms to hotel booking systems, 
+agriculture tech, and restaurant ordering sites. Whether you need a sleek business website or a powerful booking or e-commerce system, 
+I deliver fast, responsive, and optimized solutions using modern tools like Next.js, Tailwind CSS, and integrated payment APIs.
 
 ## 👨‍💻 Stack & Languages
 
